@@ -33,7 +33,7 @@ google-pasta==0.2.0
 grpcio==1.78.0
 libclang==18.1.1
 opt_einsum==3.4.0
-protobuf==5.32.0
+protobuf==7.34.0
 termcolor==3.3.0
 tqdm==4.67.3
 wrapt==2.1.2
