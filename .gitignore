@@ -1,0 +1,12 @@
+venv/
+__pycache__/
+*.pyc
+.vscode/
+gausewa.zip
+*.zip
+*.log
+dataset/cows_local.json
+server.out
+server.err
+node_modules/
+.DS_Store
